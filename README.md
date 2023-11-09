@@ -14,7 +14,7 @@ This repository contains a natural language processing (NLP) project that focuse
 4. Data
 5. Results
 6. How to use
-7. File Structure
+7. Project Files' Structure
 8. Key Highlights
 9. Contributing
 
@@ -59,7 +59,7 @@ Make sure to have the required libraries installed.
 [Include any additional instructions or tips for users]
 
 
-## 7. Project Structure
+## 7. Project Files' Structure
 The project's structure is organized as follows:
 
 - `data/`       :         Contains datasets used for training and testing the model.
