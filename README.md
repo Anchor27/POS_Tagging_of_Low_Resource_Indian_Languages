@@ -62,7 +62,7 @@ Make sure to have the required libraries installed.
 ## 7. Project Files' Structure
 The project's structure is organized as follows:
 
-- `data/`       :         Contains datasets used for training and testing the model.
+- `data/`       :         Contains datasets used for training and testing the model
 - `src/`         :        Source code and Google Collab Notebook
 - `README.md`     :       This README file
 
