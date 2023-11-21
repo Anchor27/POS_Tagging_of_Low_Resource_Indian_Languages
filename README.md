@@ -1,6 +1,6 @@
 # NLP Part-of-Speech Tagging for Low Resource Indian Languages
 
-![Project Logo/Visualization Here]
+
 
 ## Project Overview
 
